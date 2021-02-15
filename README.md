@@ -18,3 +18,8 @@ occasions where people graduate college with a non CS degree, have to do
 some sort of coding on the job, and find themselves loving it, teaching 
 themselves, and completely shifting their career towards software 
 engineering.
+
+
+
+### Response from Jay Li 
+Hello Matt! I think this is an interesting take on how the evergrowing demand for coding skills will be needed in multiple industries today. I would not be surprised if computer science is implemented in elementary education in the next few years. While I do think having this technical skill is at the forefront of how we live our lives, I still think with knowledge to code comes with ethical responsibilities. Nonetheless, I am excited that Computer Science education has become more accessible to people who have a personal computer and anyone is able to teach themselves basic coding skills.
